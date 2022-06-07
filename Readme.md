@@ -1,4 +1,4 @@
-# Anritsu Devices - simple MatLab  example scripts
+# Anritsu SCPI VXI-11 MatLab SCPI Commands example  
 
 ## 1.Overview
 The present scripts are Python3 based methods to command Anritsu devices.\
